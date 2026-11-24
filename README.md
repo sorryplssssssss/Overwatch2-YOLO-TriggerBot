@@ -36,7 +36,7 @@
 
 &#x20;   ```bash
 
-&#x20;   git clone https://github.com/ВАШ\_НИК/Overwatch2-YOLO-TriggerBot.git
+&#x20;   git clone https://github.com/sorryplsssssss/Overwatch2-YOLO-TriggerBot.git
 
 &#x20;   cd Overwatch2-YOLO-TriggerBot
 
