@@ -1,0 +1,1 @@
+start "" "D:\Computer-Vision-Trigger-Bot\venv\Scripts\pythonw.exe" "D:\Computer-Vision-Trigger-Bot\BotApp.py"
